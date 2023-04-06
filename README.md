@@ -2,19 +2,28 @@ Numeric Analysis App
 
 This app allows you to check if a number is a square, a cube, both, or neither.
 
+
 Features
+
 Accepts numeric input in a text field
 Validates the input to accept only integer numbers
 Analyzes the input number and displays whether it is a square, a cube, both, or neither
 Displays an error message if the input is not a valid integer number
+
+
 Requirements
+
 Flutter 2.0 or later
 Dart 2.12 or later
+
+
 Usage
+
 Clone the repository:
-bash
-Copy code
-git clone https://github.com/<username>/<repository-name>.git
+
+git clone https://github.com/danielbirsan/Number-checker.git
+
+
 Open the project in your preferred IDE (e.g. Android Studio, Visual Studio Code)
 
 Run the app using flutter run command or by clicking the Run button in your IDE.
